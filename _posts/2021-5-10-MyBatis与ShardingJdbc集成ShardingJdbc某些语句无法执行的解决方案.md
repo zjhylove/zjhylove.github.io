@@ -4,7 +4,7 @@ title:      MyBatis与ShardingJdbc集成ShardingJdbc某些语句无法执行的�
 subtitle:   sql执行时替换shardingJdbc执行sqlSession，并指定当前sql执行对应的dataSource即可
 date:       2021-05-10
 author:     zj
-header-img: img/post-bg-alibaba.jpg
+header-img: img/post-bg-debug.png
 catalog: true
 tags:
     - 实战经验
