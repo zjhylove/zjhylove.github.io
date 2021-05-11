@@ -138,12 +138,6 @@ tags:
   
 
 - ```java
-  /**
-   * mapper 执行器
-   *
-   * @author zj
-   * @date 2020/12/23 20:08
-   */
   public interface MapperExecutor<M> {
   
       void executor(M mapper);
